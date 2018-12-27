@@ -1,48 +1,45 @@
 {
-  "requires": true,
-  "lockfileVersion": 1,
   "dependencies": {
-    "async-limiter": {
-      "integrity": "sha512-jp/uFnooOiO+L211eZOoSyzpOITMXx1rBITauYykG3BRYPu8h0UcxsPNB04RR5vo4Tyz3+ay17tR6JVf9qzYWg==",
-      "resolved": "https://registry.npmjs.org/async-limiter/-/async-limiter-1.0.0.tgz",
-      "version": "1.0.0"
-    },
-    "discord.js": "^11.4.2",
-    "fs": "0.0.1-security",
-    "long": {
-      "integrity": "sha512-XsP+KhQif4bjX1kbuSiySJFNAehNxgLb6hPRGJ9QsUr8ajHkuXGdrHmFUTUUXhDwVX2R5bY4JNZEwbUiMhV+MA==",
-      "resolved": "https://registry.npmjs.org/long/-/long-4.0.0.tgz",
-      "version": "4.0.0"
-    },
-    "moment": "^2.23.0",
-    "prism-media": {
-      "integrity": "sha512-c9KkNifSMU/iXT8FFTaBwBMr+rdVcN+H/uNv1o+CuFeTThNZNTOrQ+RgXA1yL/DeLk098duAeRPP3QNPNbhxYQ==",
-      "resolved": "https://registry.npmjs.org/prism-media/-/prism-media-0.0.3.tgz",
-      "version": "0.0.3"
-    },
-    "safe-buffer": {
-      "integrity": "sha512-Gd2UZBJDkXlY7GbJxfsE8/nvKkUEU1G38c1siN6QP6a9PT9MmHB8GnpscSmMJSoF8LOIrt8ud/wPtojys4G6+g==",
-      "resolved": "https://registry.npmjs.org/safe-buffer/-/safe-buffer-5.1.2.tgz",
-      "version": "5.1.2"
-    },
-    "snekfetch": {
-      "integrity": "sha512-NjxjITIj04Ffqid5lqr7XdgwM7X61c/Dns073Ly170bPQHLm6jkmelye/eglS++1nfTWktpP6Y2bFXjdPlQqdw==",
-      "resolved": "https://registry.npmjs.org/snekfetch/-/snekfetch-3.6.4.tgz",
-      "version": "3.6.4"
-    },
-    "tweetnacl": {
-      "integrity": "sha1-cT2LgY2kIGh0C/aDhtBHnmb8ins=",
-      "resolved": "https://registry.npmjs.org/tweetnacl/-/tweetnacl-1.0.0.tgz",
-      "version": "1.0.0"
-    },
-    "ws": {
-      "integrity": "sha512-ZGh/8kF9rrRNffkLFV4AzhvooEclrOH0xaugmqGsIfFgOE/pIz4fMc4Ef+5HSQqTEug2S9JZIWDR47duDSLfaA==",
-      "requires": {
-        "async-limiter": "~1.0.0",
-        "safe-buffer": "~5.1.0"
-      },
-      "resolved": "http://registry.npmjs.org/ws/-/ws-4.1.0.tgz",
-      "version": "4.1.0"
-    }
+    "and": "0.0.3",
+    "anti-spam": "^0.2.7",
+    "array-sort": "^1.0.0",
+    "ascii-data-table": "^2.1.1",
+    "canvas": "^1.6.11",
+    "canvas-prebuilt": "^1.6.5-prerelease.1",
+    "child_process": "^1.0.2",
+    "common-tags": "^1.8.0",
+    "dateformat": "^3.0.3",
+    "discord-anti-spam": "^1.1.2",
+    "discord.js": "^11.3.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "figlet": "^1.2.0",
+    "file-system": "^2.2.2",
+    "forever": "^0.15.3",
+    "fortnite": "^4.1.1",
+    "fortnite-api": "^2.12.2",
+    "get-youtube-id": "^1.0.0",
+    "giphy-api": "^1.2.7",
+    "goo.gl": "^0.1.4",
+    "google-it": "^1.1.3",
+    "google-translate-api": "^2.3.0",
+    "hastebin-gen": "^1.3.1",
+    "i": "^0.3.6",
+    "jimp": "^0.2.28",
+    "math-expression-evaluator": "^1.2.17",
+    "moment": "^2.22.2",
+    "node-opus": "^0.3.0",
+    "npm": "^6.2.0",
+    "opusscript": "0.0.6",
+    "pretty-ms": "^3.2.0",
+    "queue": "^4.4.2",
+    "quick.db": "^6.3.2",
+    "short-number": "^1.0.6",
+    "simple-youtube-api": "^5.0.2",
+    "sqlite": "^2.9.2",
+    "table": "^4.0.3",
+    "winston": "^3.0.0",
+    "youtube-info": "^1.2.0",
+    "ytdl-core": "^0.21.1",
+    "zalgolize": "^1.2.4"
   }
 }
