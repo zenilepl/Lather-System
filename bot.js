@@ -12,7 +12,7 @@ client.on('message', message => {
   if (!message.content.startsWith(prefix)) return;
   var args = message.content.split(' ').slice(1);
   var argresult = args.join(' ');
-  if (message.author.id !== "321792845914570764") return;
+  if (message.author.id !== "518006653241524245") return;
  
  
   if (message.content.startsWith(prefix + 'setwatch')) {
@@ -308,7 +308,7 @@ if (message.content.startsWith(prefix+"cv")) {
 client.on('message', message => {
   if (true) {
 if (message.content === '*inv') {
-      message.author.send('https://discordapp.com/api/oauth2/authorize?client_id=449359611036827663&permissions=8&scope=bot').catch(e => console.log(e.stack));
+      message.author.send('https://discordapp.com/api/oauth2/authorize?client_id=527889558092644353&permissions=8&scope=bot').catch(e => console.log(e.stack));
  
     }
    }
